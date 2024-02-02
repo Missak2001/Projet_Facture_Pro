@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f39dff7-d01f-4721-b726-9be84678f256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api/AfficherApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/AvisApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/DemandeApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/EntrepriseApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/FactureApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/ProduitApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/UserAccountApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/AfficherDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/AvisDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/DemandeDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/EntrepriseDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/FactureDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/ProduitDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/afficher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/avis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/demande.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/entreprise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/facture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/produit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederAfficher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederAvis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederDemande.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederEntreprise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederFacture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederProduit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/seeders/seederUserAccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/useraccount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datamodel/useraccountDAO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jwt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/AfficherService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/AvisService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/DemandeService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/EntrepriseService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/FactureService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/ProduitService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/UserAccountService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/exemple.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/ClientApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datamodel/exemple.js" beforeDir="false" afterPath="$PROJECT_DIR$/datamodel/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datamodel/exempledao.js" beforeDir="false" afterPath="$PROJECT_DIR$/datamodel/ClientDao.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datamodel/seeder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/exemple.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/ClientService.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/services/exemple.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bfNuMYD9TOcMPZME8EN6TfWOGh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/missa/Desktop/05a-JWT Authentication - backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\missa\Desktop\Projet_FacturePro\datamodel\seeders" />
+      <recent name="C:\Users\missa\Desktop\Projet_FacturePro\datamodel" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f39dff7-d01f-4721-b726-9be84678f256" name="Changes" comment="" />
+      <created>1706602394532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706602394532</updated>
+      <workItem from="1706602395595" duration="11961000" />
+      <workItem from="1706689395439" duration="14802000" />
+      <workItem from="1706713256600" duration="5000" />
+      <workItem from="1706773559408" duration="8744000" />
+      <workItem from="1706861882172" duration="3165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
